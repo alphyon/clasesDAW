@@ -1,0 +1,17 @@
+body{
+	background-color: #E2C9A5;
+}
+
+header{
+	background-color: #A5E2B6;
+	border: 1px solid #000;
+}
+article{
+    background-color: #C4E0F0;
+	border: 1px solid #000;	
+}
+footer{
+	text-align: right;
+	font-size: small;
+	border-bottom:1px solid #000; 
+}

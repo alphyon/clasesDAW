@@ -1,5 +1,5 @@
 <?php 
-	$color = 'r';
+	$color = 't';
 
 	if($color == 'r'){
 		$co = '#f00';

@@ -4,7 +4,7 @@
         <title>Formulario de Captura de datos</title>
     </head>
     <body>
-        <form action="manejadorAlumno.php">
+        <form action="manejadorAlumno.php" method="post">
              <table>
             <tr>
                 <td>
